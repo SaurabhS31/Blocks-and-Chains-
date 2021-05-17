@@ -14,3 +14,4 @@ while(sha256>=target){
 }
 
 console.log(`the number is ${num}`);
+console.log(`SHA256 encryption of the number is ${sha256}`);
